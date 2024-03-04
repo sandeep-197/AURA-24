@@ -695,7 +695,7 @@ a:hover, a:active {
     }
 
     .homepage-featured-events .positioning-event-1 {
-        width: 350px;
+        width: 355px;
     }
 
     .homepage-featured-events .positioning-event-2 {
@@ -735,15 +735,15 @@ a:hover, a:active {
     }
 
     .homepage-featured-events .positioning-event-8 {
-        width: 350px;
+        width: 355px;
         top: 546px;
-        left: 475px;
+        left: 0;
     }
 
     .homepage-featured-events .positioning-event-9 {
-        width: 255px;
-        top: 470px;
-        left: 855px;
+        width: 355px;
+        top: 546px;
+        left: 580px;
     }
 
     .homepage-featured-events .positioning-event-10 {
