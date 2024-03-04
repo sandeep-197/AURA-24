@@ -699,9 +699,9 @@ a:hover, a:active {
     }
 
     .homepage-featured-events .positioning-event-2 {
-        width: 255px;
-        top: 230px;
-        left: 380px;
+        width: 355px;
+        top: 0;
+        left: 580px;
     }
 
     .homepage-featured-events .positioning-event-3 {
