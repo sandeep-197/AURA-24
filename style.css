@@ -1216,9 +1216,9 @@ a:hover, a:active {
 }
 
 .events-list-page .event-content-wrap .entry-content p {
-    margin-top: 22px;
+    margin-top: 0;
     font-size: 18px;
-    line-height: 1.7;
+    line-height: 1;
     color: #777777;
 }
 
