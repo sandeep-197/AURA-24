@@ -1202,7 +1202,7 @@ a:hover, a:active {
 .events-list-page .event-content-wrap .event-cost {
     width: 124px;
     height: 52px;
-    margin-right: -37px;
+    margin-right: 10px;
     font-size: 14px;
     color: #777777;
     background: #fff;
